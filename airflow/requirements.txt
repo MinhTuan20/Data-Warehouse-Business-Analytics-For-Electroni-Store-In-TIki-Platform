@@ -1,0 +1,14 @@
+apache-airflow-providers-github
+# Add more provider packages as needed
+apache-airflow-providers-common-sql
+apache-airflow[pandas]
+apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-microsoft-mssql[common.sql]
+apache-airflow-providers-openlineage>=1.8.0
+
+pymssql
+selenium
+protobuf==3.20.3
+google-api-core>=2.0.0
+google-cloud-core>=2.0.0
+webdriver-manager
