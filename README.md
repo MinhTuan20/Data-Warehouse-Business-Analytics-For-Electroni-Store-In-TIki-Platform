@@ -1,5 +1,5 @@
 # **Electronic Store in Tiki Platform Data Warehouse**
-# ** Read ReportPRJ for more details**
+# Read **Report PRJ** for more details
 
 ## **Data Pipeline** 
 ![Data Pipeline](https://github.com/user-attachments/assets/bd299b97-c701-4c7a-a5f0-9d980e1f920b)
